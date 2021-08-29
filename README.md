@@ -1,2 +1,2 @@
 # Certificates
-This containis all my cerificates.
+This contains all my cerificates.
