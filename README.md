@@ -1,2 +1,2 @@
 # Certificates
-This repository contains all my Certificates issued by various organizations.
+Certifications done from various courses showcasing variety of skill sets. 
