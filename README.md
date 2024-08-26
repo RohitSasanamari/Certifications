@@ -1,2 +1,2 @@
 # Certificates
-Certifications done from various courses showcasing variety of skill sets. 
+Certifications done from various courses showcasing my skills sets in various tech stacks. 
